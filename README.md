@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8AFF8A&height=300&section=header&text=Seo%20Hoehyeong&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Seo%20Hoehyeong💻&fontSize=90)
 <br/>
 
 ### 조금씩 성장하는 개발자 👋
@@ -43,3 +43,9 @@
  ### 👊 Baekjoon 👊
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=shh4190)](https://solved.ac/shh4190)
+
+<br/>
+
+### ❤️ Today ❤️
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeoHoeHyeong%2Fhit-counter&count_bg=%237EF126&title_bg=%232B63E1&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
