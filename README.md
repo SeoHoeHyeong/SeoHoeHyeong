@@ -3,7 +3,7 @@
 
 ### 조금씩 성장하는 개발자 👋
 
-
+<br/>
 
  ### 🌱 I’m currently learning ...🌱
 
@@ -14,6 +14,7 @@
  <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
  <img src="https://img.shields.io/badge/VUE.JS-3DDC84?style=flat-square&logo=vue.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
  
  
  
