@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Seo%20Hoehyeong💻&fontSize=90)
 <br/>
 
-### 조금씩 성장하는 개발자 👋
+### 조금씩 성장하는 개발자 👋   
 
+<br/>
 <br/>
 
  ### 🌱 I’m currently learning ...🌱
