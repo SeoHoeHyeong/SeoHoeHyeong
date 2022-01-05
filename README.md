@@ -14,7 +14,8 @@
  
  <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
  <img src="https://img.shields.io/badge/VUE.JS-3DDC84?style=flat-square&logo=vue.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/VUETIFY-1867C0?style=flat-square&logo=vuetify&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS3-F43059?style=flat-square&logo=css3&logoColor=white"/>
  <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
  
  
@@ -28,6 +29,7 @@
 <img src="https://img.shields.io/badge/ECLIPSE-2C2255?style=flat-square&logo=eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white"/>
 
+
 <br/>
  
   
@@ -35,6 +37,7 @@
 
 <img src="https://img.shields.io/badge/SLACK-4A154B?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/TRELLO-0052CC?style=flat-square&logo=trello&logoColor=white"/>
 
  
 
